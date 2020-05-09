@@ -1,0 +1,21 @@
+body {
+  padding: 2em;
+}
+
+.call-to-action {
+  display: inline-block;
+  background-color: orange;
+  background-image: linear-gradient(to bottom, gray 20%, bisque 20%, bisque 40%, snow 40%, snow 60%, mistyrose 60%, mistyrose 80%, lightsalmon 80%);
+  background-size: 100% 100%;
+  padding: 1em;
+  border-radius: 5px;
+  color: saddlebrown;
+  font-weight: 900;
+  text-decoration: none;
+  transition: 500ms;
+  transition-timing-function: steps(10);
+}
+
+.call-to-action:hover {
+  background-position: 0 100px;
+}

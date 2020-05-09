@@ -2,7 +2,7 @@
 
 - Salmon
 - _Salmon_
-- *Salmon*
+- **Salmon**
 
 ## By:
 Salmon
